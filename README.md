@@ -2,6 +2,11 @@ Great, here's the `README.md` based on the information provided.
 
 # Meeting-Mojo-Crawler
 
+
+## ⚠️ Disclaimer / Warning!
+This repository/project is intended for Educational Purposes ONLY.
+The project and corresponding python script should not be used for any purpose other than learning. Please do not use it for any other reason than to learn about webscrapping. Make sure you adhere to the terms and conditions of the site!
+
 ## Overview
 
 Before attending a business conference, networking is crucial. Connecting with relevant attendees beforehand not only maximizes the conference experience but also helps you to meet potential collaborators, clients, and investors. However, navigating the participants list on the event's platform can be time-consuming. That's where Meeting-Mojo-Crawler comes into play.
