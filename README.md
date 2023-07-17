@@ -15,7 +15,7 @@ This Python script scrapes the participants' list from a conference using the Me
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/ahaake/Meeting-Mojo-Crawler.git`
+1. Clone this repository: `git clone https://github.com/aehaake/Meeting-Mojo-Crawler.git`
 2. Change into the directory: `cd Meeting-Mojo-Crawler`
 3. Install dependencies: `pip install -r requirements.txt`
 
